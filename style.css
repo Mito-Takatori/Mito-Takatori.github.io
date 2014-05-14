@@ -2,9 +2,11 @@
 #tbl1
 {
 	width:100%;
+	text-align:center;
 }
 .head
 {
 	background:#ff6900;
 	width:100%;
+	height:20px;
 }
