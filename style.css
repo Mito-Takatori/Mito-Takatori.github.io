@@ -1,7 +1,7 @@
 /*Style*/
 body
 {
-	background:url("/images/back.png");
+	background:url("/images/back.png") repeat-x;
 	margin:0;
 }
 #tbl1
