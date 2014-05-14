@@ -20,4 +20,9 @@ body
 #logo
 {
 	background:url("/images/logo.png") no-repeat;
+	width: 280px;
+height: 165px;
+position: relative;
+top: -129px;
+left: 83px;
 }
